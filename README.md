@@ -56,8 +56,7 @@ Highlighted top-performing products and categories
 Provided actionable insights for improving customer retention and sales
 🔹 How to Run the Project
 🔸 Step 1: Clone Repository
-git clone   https://github.com/Abhishek-200502/Customer_behavior_analysis.git
-cd customer-behavior-analysis
+git clone   https://github.com/Abhishek-200502/Customer_behaviour_analysis
 🔸 Step 2: Install Dependencies
 pip install pandas numpy sqlalchemy mysql-connector-python
 🔸 Step 3: Setup Database
